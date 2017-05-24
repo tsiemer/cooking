@@ -148,7 +148,28 @@ height:300px;
 .div5{
 	float:left;
 }
-.cb1{
+.cb{
+	float:left;
+	padding:110px;
+}
+
+
+#bread{
+	padding-bottom:0px;
+	float:top;
+	float:left;
+}
+.knives{
+	float:right;
+	padding-right:20px;
+}
+.buy{
+	float:right;
+	padding-right:20px;
+}
+.paragraph{
+	padding-bottom:200px;
+}.cb1{
 float:left;
 padding: 110px;
 
@@ -184,21 +205,4 @@ padding: 110px;
 .cb9{
 	float:left;
 padding: 110px;
-}
-
-#bread{
-	padding-bottom:0px;
-	float:top;
-	float:left;
-}
-.knives{
-	float:right;
-	padding-right:20px;
-}
-.buy{
-	float:right;
-	padding-right:20px;
-}
-.paragraph{
-	padding-bottom:200px;
 }
