@@ -81,6 +81,7 @@ ul {
 	height:400px;
 	float:left;
 	opacity:100%;
+
 }
 .girl{
 	float:right;
@@ -94,10 +95,110 @@ ul {
 }
 
 .div1{
-	border-style:solid;
-	border-width:2px;
-	border-color:black;
-	padding-left:0px;
-	background-color:#FAE5D3;
+border-style:solid;
+border-width:2px;
+border-color:black;
+padding-left:0px;
+background-color:;
 
+}
+.div2{
+border-style:solid;
+border-width:2px;
+border-color:black;
+
+}
+.pic1{
+float:left;
+padding-right:30px;
+padding-bottom:20px;
+}
+.text1{
+padding-left:10px;
+}
+.div3{
+border-style:solid;
+border-width:2px;
+border-color:black;
+padding-top:0px;
+}
+.div4{
+	border-style:solid;
+border-width:2px;
+border-color:black;
+padding-top:0px;
+}
+.pic2{
+	float:left;
+padding-right:30px;
+height:300px;
+}
+.blocks{
+	position:absolute;
+}
+.pic5{
+	width:100%;
+}
+.p4{
+	float:right;
+}
+.pic6{
+	float:left;
+}
+.div5{
+	float:left;
+}
+.cb1{
+float:left;
+padding: 110px;
+
+}
+.cb2{
+	float:left;
+padding: 110px;
+}
+.cb3{
+	float:left;
+padding: 110px;
+}
+.cb4{
+	float:left;
+padding: 110px;
+}
+.cb5{
+	float:left;
+padding: 110px;
+}
+.cb6{
+	float:left;
+padding: 110px;
+}
+.cb7{
+	float:left;
+padding: 110px;
+}
+.cb8{
+	float:left;
+padding: 110px;
+}
+.cb9{
+	float:left;
+padding: 110px;
+}
+
+#bread{
+	padding-bottom:0px;
+	float:top;
+	float:left;
+}
+.knives{
+	float:right;
+	padding-right:20px;
+}
+.buy{
+	float:right;
+	padding-right:20px;
+}
+.paragraph{
+	padding-bottom:200px;
 }
