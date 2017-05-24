@@ -206,3 +206,36 @@ padding: 110px;
 	float:left;
 padding: 110px;
 }
+.scroll-box{
+	border:1px solid black;
+	height:300px;
+	width:400px;
+	overflow-y:hidden;
+	overflow-x:scroll;
+}
+div.scrollmenu {
+    background-color:;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: #777;
+}
+.profilepic{
+	float:left;
+}
+.profilepic2{
+	float:right;
+}
+.header{
+	padding:30px;
+}
