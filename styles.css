@@ -41,9 +41,6 @@ padding:6px;
 color: black;
 font-family:'Tw Cen MT';
 }
-li a:hover :not(.active){
-background-color:black;
-		}
 .p{
 	float:left;
 	overflow:auto;
