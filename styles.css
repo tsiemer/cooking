@@ -1,3 +1,8 @@
+p{
+line-height:25px;
+font-family:'Tw Cen MT';
+}
+
 .bar {
 	padding-left:20px;
 }
@@ -17,6 +22,7 @@ color: black;
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
+font-family:'Tw Cen MT';
 }
 ul {
 list-style-type: none;
@@ -24,6 +30,7 @@ margin: 10px;
 padding: 0;
 overflow: auto;
 background-color: beige;
+font-family:'Tw Cen MT';
 
 } 
 a{
@@ -32,7 +39,7 @@ background-color:;
 border-radius:0px;
 padding:6px;
 color: black;
-font-family:'georgia';
+font-family:'Tw Cen MT';
 }
 li a:hover :not(.active){
 background-color:black;
@@ -136,6 +143,9 @@ height:300px;
 .blocks{
 	position:absolute;
 }
+.header{
+font-family:'Tw Cen MT';
+}
 .pic5{
 	width:100%;
 }
@@ -172,39 +182,48 @@ height:300px;
 }.cb1{
 float:left;
 padding: 110px;
+font-family:'Tw Cen MT';
 
 }
 .cb2{
 	float:left;
 padding: 110px;
+font-family:'Tw Cen MT';
 }
 .cb3{
 	float:left;
 padding: 110px;
+font-family:'Tw Cen MT';
 }
 .cb4{
 	float:left;
 padding: 110px;
+font-family:'Tw Cen MT';
 }
 .cb5{
 	float:left;
 padding: 110px;
+font-family:'Tw Cen MT';
 }
 .cb6{
 	float:left;
 padding: 110px;
+font-family:'Tw Cen MT';
 }
 .cb7{
 	float:left;
 padding: 110px;
+font-family:'Tw Cen MT';
 }
 .cb8{
 	float:left;
 padding: 110px;
+font-family:'Tw Cen MT';
 }
 .cb9{
 	float:left;
 padding: 110px;
+font-family:'Tw Cen MT';
 }
 .scroll-box{
 	border:1px solid black;
